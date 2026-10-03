@@ -1,0 +1,79 @@
+Resume 
+VIGNESH VEERAMANI
+Data Engineer | Data Analyst
+Chennai, Tamil Nadu, India | +91-XXXXXXXXXX | vigneshveeramani77@gmail.com
+LinkedIn: linkedin.com/in/XXXXXXXX | GitHub: github.com/XXXXXXXX
+PROFESSIONAL SUMMARY
+Data Engineer with experience in data processing, ETL workflows, SQL-based data transformation, and big-data technologies. Hands-on experience working with Databricks, Apache Spark, Delta Lake, SQL, Jenkins, and Control-M in enterprise data environments. Experienced in developing and supporting data pipelines, troubleshooting data issues, monitoring scheduled workflows, and contributing to CI/CD processes. Seeking opportunities in Data Engineering, Data Analytics, ETL, Databricks, and SQL roles.
+TECHNICAL SKILLS
+Programming & Query Languages:
+SQL, Python
+Data Engineering:
+ETL, Data Pipelines, Data Transformation, Data Validation, Data Processing
+Big Data & Cloud Technologies:
+Databricks, Apache Spark, Delta Lake
+Databases:
+SQL Server, MySQL
+DevOps & Scheduling:
+Jenkins, CI/CD, Control-M
+Tools & Practices:
+Git, Data Quality, Production Support, Debugging, Performance Optimization
+PROFESSIONAL EXPERIENCE
+CAPGEMINI
+Data Engineer / Software Engineer
+[Location] | [Month Year] – Present
+Project: TE Connectivity – EcoFlow
+Worked on enterprise data engineering workflows involving data extraction, transformation, validation, and loading.
+Developed and maintained SQL-based data transformation processes to support business and analytical requirements.
+Worked with Databricks and Apache Spark for large-scale data processing.
+Utilized Delta Lake for reliable storage and management of processed datasets.
+Monitored and supported scheduled data workflows using Control-M.
+Worked with Jenkins and CI/CD processes for deployment and automation activities.
+Investigated data pipeline failures and production issues and supported root-cause analysis.
+Performed data validation and reconciliation to ensure data accuracy and consistency.
+Collaborated with team members and stakeholders to understand requirements and resolve technical issues.
+Participated in application maintenance, issue resolution, testing, and deployment activities.
+Followed enterprise development, testing, version-control, and deployment practices.
+Technologies: SQL | Databricks | Apache Spark | Delta Lake | Jenkins | Control-M | ETL | CI/CD
+PROJECT EXPERIENCE
+TE CONNECTIVITY – ECOFLOW
+Role: Data Engineer
+Environment: SQL, Databricks, Apache Spark, Delta Lake, Jenkins, Control-M
+Responsibilities:
+Worked on data processing and transformation workflows.
+Created and modified SQL queries for data extraction and transformation.
+Used Spark-based processing for handling large datasets.
+Worked with Databricks notebooks and data-processing jobs.
+Supported Delta Lake-based data storage and processing.
+Monitored scheduled jobs and investigated failures.
+Assisted in deployment activities through CI/CD pipelines.
+Performed data validation and troubleshooting across different stages of the pipeline.
+Supported production issues and ensured timely resolution of data-related problems.
+EDUCATION
+Bachelor of Engineering / Bachelor of Technology – [Your Branch]
+[College Name]
+[University Name] | [Graduation Year]
+CERTIFICATIONS
+[Certification Name] – [Issuing Organization]
+[Certification Name] – [Issuing Organization]
+[Certification Name] – [Issuing Organization]
+PROJECTS
+Data Engineering / ETL Project
+Designed an ETL workflow to extract, transform, and load structured data.
+Used SQL for data transformation and validation.
+Implemented data-quality checks to identify missing and inconsistent records.
+Created analytical datasets suitable for reporting and business analysis.
+Data Analysis Project
+Cleaned and transformed datasets using SQL/Python.
+Performed exploratory analysis to identify trends and patterns.
+Created reports/dashboards to communicate business insights.
+ACHIEVEMENTS
+[Add measurable achievement from your current project]
+[Add performance improvement, automation, or optimization achievement]
+[Add certification, award, or recognition if applicable]
+ADDITIONAL INFORMATION
+Current Location: Chennai, Tamil Nadu, India
+Notice Period: [Your notice period]
+Preferred Roles: Data Engineer | Data Analyst | ETL Developer | Databricks Developer
+Preferred Locations: India / Dubai, UAE
+
